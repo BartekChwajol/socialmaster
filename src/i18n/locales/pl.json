@@ -1,0 +1,123 @@
+{
+  "common": {
+    "home": "Strona główna",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "features": "Funkcje",
+    "pricing": "Cennik",
+    "login": "Zaloguj się",
+    "register": "Zarejestruj się",
+    "dashboard": "Panel",
+    "logout": "Wyloguj się",
+    "settings": "Ustawienia",
+    "profile": "Profil",
+    "analytics": "Analityka",
+    "posts": "Posty"
+  },
+  "nav": {
+    "roadmap": "Roadmapa",
+    "api": "API",
+    "docs": "Dokumentacja",
+    "status": "Status"
+  },
+  "footer": {
+    "company": "Firma",
+    "product": "Produkt",
+    "resources": "Zasoby",
+    "legal": "Prawne",
+    "copyright": "Wszelkie prawa zastrzeżone"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformuj swoją obecność w mediach społecznościowych z AI",
+      "subtitle": "Automatycznie generuj angażujące treści i piękne grafiki dla swoich mediów społecznościowych. Pozwól AI zająć się tworzeniem treści, podczas gdy Ty skupisz się na rozwoju swojego biznesu.",
+      "cta": "Rozpocznij za darmo",
+      "learnMore": "Dowiedz się więcej"
+    },
+    "features": {
+      "title": "Wszystko, czego potrzebujesz do zarządzania social mediami",
+      "subtitle": "Wykorzystaj moc sztucznej inteligencji do automatyzacji i optymalizacji swojej obecności w mediach społecznościowych",
+      "aiContent": {
+        "title": "Generator treści AI",
+        "description": "Generuj unikalne treści dopasowane do Twojej marki w kilka sekund"
+      },
+      "analytics": {
+        "title": "Inteligentna analityka",
+        "description": "Monitoruj i analizuj skuteczność swoich postów w czasie rzeczywistym"
+      },
+      "scheduler": {
+        "title": "Automatyczny harmonogram",
+        "description": "Planuj i automatyzuj publikacje w najlepszym czasie dla Twojej społeczności"
+      }
+    },
+    "stats": {
+      "clients": "Zadowolonych klientów",
+      "posts": "Wygenerowanych postów",
+      "engagement": "Wzrost zaangażowania",
+      "support": "Wsparcie techniczne"
+    },
+    "cta": {
+      "title": "Gotowy na transformację swojej obecności w social mediach?",
+      "subtitle": "Dołącz do tysięcy zadowolonych klientów i zacznij tworzyć lepsze treści już dziś",
+      "button": "Rozpocznij 14-dniowy okres próbny"
+    }
+  },
+  "dashboard": {
+    "welcome": "Witaj w panelu",
+    "profile": {
+      "title": "Profil użytkownika",
+      "email": "Email",
+      "industry": "Branża",
+      "targetAudience": "Grupa docelowa",
+      "keywords": "Słowa kluczowe",
+      "tone": "Ton komunikacji",
+      "brandValues": "Wartości marki",
+      "competitors": "Konkurencja",
+      "uniqueFeatures": "Unikalne cechy",
+      "editProfile": "Edytuj profil",
+      "saveChanges": "Zapisz zmiany",
+      "cancel": "Anuluj"
+    },
+    "posts": {
+      "title": "Zarządzanie postami",
+      "generate": "Wygeneruj posty na 30 dni",
+      "generating": "Generowanie postów...",
+      "selectDay": "Wybierz dzień z kalendarza",
+      "editPost": "Edytuj post",
+      "save": "Zapisz",
+      "publish": "Opublikuj teraz",
+      "cancel": "Anuluj",
+      "export": "Eksportuj posty"
+    },
+    "analytics": {
+      "title": "Analityka",
+      "postStats": "Statystyki postów",
+      "totalPosts": "Liczba postów",
+      "scheduled": "Zaplanowane",
+      "published": "Opublikowane",
+      "averageReach": "Średnie zasięgi",
+      "daily": "Dzienny",
+      "weekly": "Tygodniowy",
+      "monthly": "Miesięczny",
+      "bestTime": "Najlepszy czas",
+      "day": "Dzień",
+      "hour": "Godzina",
+      "engagement": "Zaangażowanie"
+    },
+    "settings": {
+      "title": "Ustawienia",
+      "socialMedia": "Integracje z Social Media",
+      "publishing": "Ustawienia publikacji",
+      "autoPublish": "Automatycznie publikuj posty",
+      "defaultTime": "Domyślna godzina publikacji",
+      "platforms": "Platformy do publikacji",
+      "saveSettings": "Zapisz ustawienia",
+      "deleteAccount": {
+        "title": "Usuwanie konta",
+        "warning": "Ta operacja jest nieodwracalna",
+        "button": "Usuń konto i dane",
+        "confirm": "Czy na pewno chcesz usunąć swoje konto? Ta operacja jest nieodwracalna."
+      }
+    }
+  }
+}

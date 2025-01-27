@@ -1,0 +1,34 @@
+{
+  "common": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "dashboard": "Dashboard",
+    "logout": "Abmelden"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "api": "API",
+    "docs": "Dokumentation",
+    "status": "Status"
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "product": "Produkt",
+    "resources": "Ressourcen",
+    "legal": "Rechtliches",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformieren Sie Ihre Social Media Präsenz mit KI",
+      "subtitle": "Generieren Sie automatisch ansprechende Inhalte und schöne Grafiken für Ihre sozialen Medien. Lassen Sie KI die Content-Erstellung übernehmen, während Sie sich auf das Wachstum Ihres Unternehmens konzentrieren.",
+      "cta": "Kostenlos starten",
+      "learnMore": "Mehr erfahren"
+    }
+  }
+}

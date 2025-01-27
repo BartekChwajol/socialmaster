@@ -1,0 +1,34 @@
+{
+  "common": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "logout": "Déconnexion"
+  },
+  "nav": {
+    "roadmap": "Feuille de route",
+    "api": "API",
+    "docs": "Documentation",
+    "status": "Statut"
+  },
+  "footer": {
+    "company": "Entreprise",
+    "product": "Produit",
+    "resources": "Ressources",
+    "legal": "Mentions légales",
+    "copyright": "Tous droits réservés"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformez votre présence sur les réseaux sociaux avec l'IA",
+      "subtitle": "Générez automatiquement du contenu engageant et de beaux visuels pour vos réseaux sociaux. Laissez l'IA s'occuper de la création de contenu pendant que vous vous concentrez sur le développement de votre entreprise.",
+      "cta": "Commencer gratuitement",
+      "learnMore": "En savoir plus"
+    }
+  }
+}

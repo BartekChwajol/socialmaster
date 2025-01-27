@@ -1,0 +1,34 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "features": "Funzionalità",
+    "pricing": "Prezzi",
+    "login": "Accedi",
+    "register": "Registrati",
+    "dashboard": "Dashboard",
+    "logout": "Esci"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "api": "API",
+    "docs": "Documentazione",
+    "status": "Stato"
+  },
+  "footer": {
+    "company": "Azienda",
+    "product": "Prodotto",
+    "resources": "Risorse",
+    "legal": "Legale",
+    "copyright": "Tutti i diritti riservati"
+  },
+  "home": {
+    "hero": {
+      "title": "Trasforma la tua presenza sui social media con l'AI",
+      "subtitle": "Genera automaticamente contenuti coinvolgenti e belle grafiche per i tuoi social media. Lascia che l'AI si occupi della creazione dei contenuti mentre tu ti concentri sulla crescita del tuo business.",
+      "cta": "Inizia gratis",
+      "learnMore": "Scopri di più"
+    }
+  }
+}

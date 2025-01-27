@@ -1,0 +1,30 @@
+.calendar-day {
+  aspect-ratio: 1;
+  min-height: 120px;
+  position: relative;
+  overflow: hidden;
+}
+
+.calendar-day.empty {
+  background: transparent;
+}
+
+.day-number {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 1;
+}
+
+.day-content {
+  margin-top: 24px;
+  height: calc(100% - 24px);
+  overflow-y: auto;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
